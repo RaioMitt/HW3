@@ -1,0 +1,112 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/pfp.jpg",
+            "user": "Not_5anta_Clau5",
+            "img": null,
+            "date": "Nov 31, 2024",
+            "post": "Have you been good kids???",
+            "likes": 0
+        },
+        {
+            "id": 2,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/alar.jpg",
+            "user": "Real_AlarKaris",
+            "img": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/heart.jpg",
+            "date": "Nov 23, 2024",
+            "post": "I love this new estonian theme!",
+            "likes": 0
+        },
+        {
+            "id": 3,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/karl.jpg",
+            "user": "Karl",
+            "img": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/halloween.jpg",
+            "date": "Oct 31, 2024",
+            "post": "Happy halloween!",
+            "likes": 0
+        },
+        {
+            "id": 4,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/raio.png",
+            "user": "Raio",
+            "img": null,
+            "date": "Oct 28, 2024",
+            "post": "Wishing everyone a beautiful monday!",
+            "likes": 0
+        },
+        {
+            "id": 5,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/sander.jpg",
+            "user": "Sander",
+            "img": null,
+            "date": "Oct 24, 2024",
+            "post": "Has anyone seen the new venom movie?",
+            "likes": 0
+        },
+        {
+            "id": 6,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/coop.jpg",
+            "user": "COOP",
+            "img": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/ujula_konsum.jpg",
+            "date": "Oct 18, 2024",
+            "post": "I do not use this word lightly, but this store is GOATED",
+            "likes": 0
+        },
+        {
+            "id": 7,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/pfp.jpg",
+            "user": "Rene Descartes",
+            "img": null,
+            "date": "Oct 15, 2024",
+            "post": "I think, therefor I am",
+            "likes": 0
+        },
+        {
+            "id": 8,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/pfp.jpg",
+            "user": "Meelis Lendav",
+            "img": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/ryytli.png",
+            "date": "Oct 6, 2024",
+            "post": "Rüütli street 10 years ago",
+            "likes": 0
+        },
+        {
+            "id": 9,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/delta.jpg",
+            "user": "Delta",
+            "img": null,
+            "date": "Oct 5, 2024",
+            "post": "What are you doing this weekend?",
+            "likes": 0
+        },
+        {
+            "id": 10,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/garfield.jpg",
+            "user": "Garfield",
+            "img": null,
+            "date": "Oct 4, 2024",
+            "post": "All this studying makes me sleepy... zzz...",
+            "likes": 0
+        },
+        {
+            "id": 11,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/sponge.png",
+            "user": "Spongebob Squarepants",
+            "img": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/sad.jpg",
+            "date": "Oct 4, 2024",
+            "post": "MFW I have to wake up 6 am",
+            "likes": 0
+        },
+        {
+            "id": 12,
+            "profile": "https://raw.githubusercontent.com/RaioMitt/HW3/main/src/assets/as_logo.png",
+            "user": "AS",
+            "img": null,
+            "date": "Oct 2, 2024",
+            "post": "Hello!",
+            "likes": 0
+        }
+    ]
+}
